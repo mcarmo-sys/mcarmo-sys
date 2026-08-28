@@ -80,17 +80,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mcarmo-sys&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarmo-sys&layout=compact&theme=tokyonight" />
-
-</p>
 
 ---
 
